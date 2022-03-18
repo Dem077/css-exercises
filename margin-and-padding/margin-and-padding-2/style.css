@@ -4,6 +4,9 @@ body {
 }
 
 .card {
+  display: flex;
+  align-content: center;
+  justify-content: center;
   width: 400px;
   background: #fff;
   margin: 16px auto;
